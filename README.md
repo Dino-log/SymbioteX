@@ -4,7 +4,7 @@
 
 Latest Update: 7/4/2022
 
-**DOWNLOAD BY CLICKING [HERE](https://github.com/Dino-log/SymbioteX/releases/tag/2.6)**
+**DOWNLOAD BY CLICKING [HERE](https://github.com/Dino-log/SymbioteX/releases/download/2.6/Symbiote.X.2.6.zip)**
 
 Use key "dino" in the executor because the website is not currently working
 
