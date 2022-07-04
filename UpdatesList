@@ -1,6 +1,6 @@
 2.6 - Added auto execute, All updates to the Launch Screen
 2.5 - Added a message after the injection so you can know when you injected
-2.4 - Fixed Bugs
+2.4 - Fixed Bugs, changed the color of loading bar
 2.3 - Added Version text on Launch Screen
 2.2 - Customized API (removed website redirects, useless .exe files)
 2.1 - Added Script List
