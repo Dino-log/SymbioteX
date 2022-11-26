@@ -1,3 +1,26 @@
+***DISCONTINUED***
+please use https://github.com/Charlzk05/Synapse-X-Remake-Synapse-X-Free-Version/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ***NEXT-GEN LEVEL 8 EXECUTOR (THE BEST FREE EXECUTOR OUT THERE. USE CODE "dino" IN THE EXECUTOR FOR ACCESS)***
 
 
