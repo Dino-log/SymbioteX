@@ -1,0 +1,624 @@
+{
+	"Aimbot" : 
+	{
+		"Aimbot" : true,
+		"AstroBot" : false,
+		"SilentAimbot" : true,
+		"SilentServerSide" : true,
+		"SpoofHead" : false,
+		"TargetSleepers" : true,
+		"TargetTribe" : true,
+		"TekBowSilent" : false,
+		"Triggerbot" : false,
+		"VisibleOnly" : true
+	},
+	"Globals" : 
+	{
+		"ContHPBar" : false,
+		"EnemyBox" : false,
+		"EnemyBoxColor" : 
+		[
+			1.0,
+			0.0,
+			0.0,
+			1.0
+		],
+		"EnemyBoxInt" : 1,
+		"EnemySkeleton" : true,
+		"EnemySkeletonColor" : 
+		[
+			1.0,
+			0.0,
+			0.0,
+			1.0
+		],
+		"GenyHPBar" : true,
+		"TekTurretHPBar" : false,
+		"TribeBox" : true,
+		"TribeBoxColor" : 
+		[
+			0.0,
+			1.0,
+			0.0,
+			1.0
+		],
+		"TribeBoxInt" : 1,
+		"TribeSkeleton" : true,
+		"TribeSkeletonColor" : 
+		[
+			0.0,
+			1.0,
+			0.0,
+			1.0
+		]
+	},
+	"HP_COLORS" : 
+	{
+		"Container" : 
+		[
+			1.0,
+			0.0,
+			1.0,
+			1.0
+		],
+		"Dino_Enemy" : 
+		[
+			1.0,
+			0.0,
+			0.0,
+			1.0
+		],
+		"Dino_Tribe" : 
+		[
+			0.0,
+			1.0,
+			0.0,
+			1.0
+		],
+		"Dino_Wild" : 
+		[
+			1.0,
+			1.0,
+			1.0,
+			1.0
+		],
+		"Geny" : 
+		[
+			0.0,
+			0.0,
+			1.0,
+			1.0
+		],
+		"Player_Enemy" : 
+		[
+			1.0,
+			0.0,
+			0.0,
+			1.0
+		],
+		"Player_Tribe" : 
+		[
+			0.0,
+			1.0,
+			1.0,
+			1.0
+		],
+		"Turret" : 
+		[
+			1.0,
+			1.0,
+			1.0,
+			1.0
+		]
+	},
+	"HUD" : 
+	{
+		"AimbotFOVSize" : 300.0,
+		"CrosshairSize" : 7.0,
+		"CrosshairWidth" : 3.0,
+		"Legit" : false,
+		"NEARBYENEMIESALERT" : true,
+		"ShowAimbotFOV" : false,
+		"ShowCrosshair" : true,
+		"ShowCurrentTarget" : true,
+		"ShowDamageNumbers" : false,
+		"ShowDebugInventoryNames" : true,
+		"ShowLefttext" : false,
+		"ShowMeshDetection" : true,
+		"ShowMyArmor" : false,
+		"WayPoints" : true
+	},
+	"HotKey" : 
+	{
+		"AimKeyDown" : 0,
+		"Airstuck" : 0,
+		"AutoArmor" : 0,
+		"CESP" : 0,
+		"ChangeBone" : 0,
+		"Chest" : 0,
+		"DropAll" : 0,
+		"ExoPower" : 0,
+		"Fly" : 0,
+		"ForceUpload" : 0,
+		"Ghost" : 0,
+		"HardTurn" : 0,
+		"HawkAim" : 0,
+		"InstaTurn" : 0,
+		"Legit" : 0,
+		"Pants" : 0,
+		"Punch" : 0,
+		"SPD_Download" : 0,
+		"SPD_Upload" : 0,
+		"SPEED" : 0,
+		"SelfPopCorn" : 0,
+		"ShowMenu" : 46,
+		"SpeedDownP" : 0,
+		"SpeedUPP" : 0,
+		"TESP" : 0,
+		"Waypoint" : 0
+	},
+	"INI" : 
+	{
+		"INI No Beer/Z plant/etc" : false,
+		"INI No Particles" : false,
+		"INI Prevviewmode" : false,
+		"INI Remove FOG" : false,
+		"INI See Underwater / FullBright" : false
+	},
+	"Keybinds" : 
+	{
+		"AutoRide" : 0,
+		"C4Spammer" : 0,
+		"Desync" : 0
+	},
+	"Misc" : 
+	{
+		"AutoArmor" : true,
+		"AutoArmorPercent" : 0.10000000149011612,
+		"AutoImprinter" : false,
+		"AutoLoot" : true,
+		"AutoRide" : false,
+		"AutoShield" : true,
+		"BossType" : 0,
+		"BowSpammer" : false,
+		"BypassShield" : true,
+		"C4Pickup" : false,
+		"C4Spammer" : true,
+		"ColorChar" : false,
+		"ContPopCorn" : false,
+		"Desert" : false,
+		"DisableRTS" : false,
+		"ExoMekExploit1" : false,
+		"ExoMekExploit2" : false,
+		"ExoMekExploit3" : false,
+		"ExoPower" : false,
+		"ExplorerNotes" : false,
+		"FOV" : false,
+		"FireRate" : 0.081000000238418579,
+		"FlyDinoBackwards" : true,
+		"GrenadeSpammer" : false,
+		"GunQol[No Recoil/Spread]" : true,
+		"HARDTURN" : true,
+		"HoverSailPickup" : false,
+		"IgnoreChest" : false,
+		"IgnoreGloves" : false,
+		"InfC4PlacerMOD" : true,
+		"InfElement" : true,
+		"InfRocket" : true,
+		"InfiniteArms" : true,
+		"InfiniteOrbit" : true,
+		"InstaBowMOD" : false,
+		"InstaTurn" : true,
+		"LegitNotes" : false,
+		"LockYAW(HardTurn)" : true,
+		"LongArms" : true,
+		"NoOverHeat TekRifle" : true,
+		"RapidFire" : true,
+		"SelfC4placer" : false,
+		"SelfPopCorn" : false,
+		"SmoothChest" : true,
+		"Speed" : false,
+		"SpeedMultP" : 1.0,
+		"SuperDownload" : false,
+		"SuperPants" : true,
+		"TekChest" : true,
+		"TekPunch" : true,
+		"TekPunchSmooth" : true,
+		"TransBag" : true,
+		"UnlockFedsuit" : true,
+		"UnlockGlitches" : false,
+		"UnlockRotationInDino" : true,
+		"beartrap" : false,
+		"dropall" : false,
+		"spoofstructs" : true
+	},
+	"Settings" : 
+	{
+		"Colors" : 
+		{
+			"BED_ENEMY" : 
+			[
+				1.0,
+				1.0,
+				0.0,
+				1.0
+			],
+			"BED_TRIBE" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"CONT_ENEMY" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"CONT_TRIBE" : 
+			[
+				1.0,
+				1.0,
+				0.0,
+				1.0
+			],
+			"CharBody" : 
+			[
+				1.0,
+				0.0,
+				0.0,
+				1.0
+			],
+			"CharEyes" : 
+			[
+				1.0,
+				0.0,
+				0.0,
+				1.0
+			],
+			"CharHair" : 
+			[
+				1.0,
+				0.0,
+				0.0,
+				1.0
+			],
+			"Crosshair" : 
+			[
+				1.0,
+				0.0,
+				0.0,
+				1.0
+			],
+			"DINO_ENEMY" : 
+			[
+				1.0,
+				1.0,
+				0.0,
+				1.0
+			],
+			"DINO_TRIBE" : 
+			[
+				0.0,
+				1.0,
+				0.0,
+				1.0
+			],
+			"DINO_WILD" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"DINO_WILD_ALPHA" : 
+			[
+				1.0,
+				0.0,
+				0.0,
+				1.0
+			],
+			"DINO_WILD_CORRUPT" : 
+			[
+				0.5,
+				0.0,
+				1.0,
+				1.0
+			],
+			"FOV" : 
+			[
+				1.0,
+				0.0,
+				0.0,
+				1.0
+			],
+			"GENY_ENEMY" : 
+			[
+				0.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"GENY_TRIBE" : 
+			[
+				0.0,
+				1.0,
+				0.0,
+				1.0
+			],
+			"NOTE" : 
+			[
+				1.0,
+				0.0,
+				0.0,
+				1.0
+			],
+			"NOTE_RANGE" : 
+			[
+				0.0,
+				1.0,
+				0.0,
+				1.0
+			],
+			"NearbyEnem" : 
+			[
+				0.0,
+				1.0,
+				0.95027613639831543,
+				1.0
+			],
+			"NotStuckInMesh" : 
+			[
+				0.0,
+				1.0,
+				0.0,
+				1.0
+			],
+			"PlayerESP_Dead_Enemy" : 
+			[
+				0.0,
+				0.0,
+				0.0,
+				1.0
+			],
+			"PlayerESP_Enemy" : 
+			[
+				1.0,
+				0.0,
+				0.0,
+				1.0
+			],
+			"PlayerESP_Enemy_Sleep" : 
+			[
+				1.0,
+				0.50196081399917603,
+				0.0,
+				1.0
+			],
+			"PlayerESP_Friend" : 
+			[
+				0.0,
+				1.0,
+				0.0,
+				1.0
+			],
+			"PlayerESP_Friend_Dead" : 
+			[
+				0.0,
+				0.0,
+				0.0,
+				1.0
+			],
+			"PlayerESP_Friend_Sleep" : 
+			[
+				0.0,
+				1.0,
+				0.0,
+				0.69999998807907104
+			],
+			"StuckInMesh" : 
+			[
+				1.0,
+				0.0,
+				0.0,
+				1.0
+			],
+			"TargetNotify" : 
+			[
+				1.0,
+				1.0,
+				0.0,
+				1.0
+			],
+			"WAYPOINT" : 
+			[
+				1.0,
+				1.0,
+				0.0,
+				1.0
+			],
+			"W_C4" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"W_Cache" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"W_Supply" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		"Visuals" : 
+		{
+			"Structures" : 
+			{
+				"Enemy" : 
+				{
+					"Turrets" : 
+					{
+						"Color" : 
+						[
+							1.0,
+							1.0,
+							1.0,
+							1.0
+						]
+					}
+				},
+				"Tribe" : 
+				{
+					"Turrets" : 
+					{
+						"Color" : 
+						[
+							1.0,
+							1.0,
+							1.0,
+							1.0
+						]
+					}
+				}
+			}
+		}
+	},
+	"Visuals" : 
+	{
+		"Dinos" : 
+		{
+			"Tamed" : 
+			{
+				"Enemy" : 
+				{
+					"Distance" : true,
+					"Health" : true,
+					"Level" : true,
+					"Name" : true,
+					"Torp" : false,
+					"TribeName" : false,
+					"UploadedFrom" : false
+				},
+				"Tribe" : 
+				{
+					"Distance" : false,
+					"Health" : true,
+					"Level" : true,
+					"Name" : true,
+					"Torp" : true,
+					"TribeName" : false,
+					"UploadedFrom" : false
+				}
+			},
+			"Wild" : 
+			{
+				"Alpha" : true,
+				"Corrupts" : true,
+				"Distance" : true,
+				"Health" : true,
+				"Level" : true,
+				"Name" : true,
+				"Torp" : true
+			}
+		},
+		"ESP_Beds_Enemy" : true,
+		"ESP_Beds_Tribe" : false,
+		"ESP_Cont_Enemy" : true,
+		"ESP_Cont_Tribe" : false,
+		"ESP_Dino_Tamed_Enemy" : false,
+		"ESP_Dino_Tamed_Tribe" : false,
+		"ESP_Dino_Wild" : false,
+		"ESP_Geny_Enemy" : true,
+		"ESP_Geny_Tribe" : false,
+		"ESP_IgnoreEnemy" : true,
+		"ESP_IgnoreTribe" : true,
+		"ESP_Turret_Enemy" : false,
+		"ESP_Turret_Tribe" : false,
+		"ESP_World_C4" : false,
+		"ESP_World_ItemCache" : false,
+		"ESP_World_Supply" : true,
+		"Player_Enemy" : true,
+		"Player_Tribe" : true,
+		"Players" : 
+		{
+			"Enemy" : 
+			{
+				"Armor" : false,
+				"Dead" : false,
+				"Distance" : false,
+				"Health" : false,
+				"Level" : false,
+				"Name" : false,
+				"Sleeping" : true,
+				"Tribename" : false,
+				"Weight" : false,
+				"gun" : false,
+				"implant" : true
+			},
+			"Tribe" : 
+			{
+				"Armor" : false,
+				"Dead" : false,
+				"Distance" : false,
+				"Health" : false,
+				"Level" : false,
+				"Name" : false,
+				"Sleeping" : false,
+				"Tribename" : false,
+				"Weight" : false,
+				"gun" : false,
+				"implant" : true
+			}
+		},
+		"Structures" : 
+		{
+			"Enemy" : 
+			{
+				"Containers" : 
+				{
+					"Distance" : true,
+					"Items" : true,
+					"Name" : true
+				},
+				"Turrets" : 
+				{
+					"Bullets" : false,
+					"Distance" : false,
+					"HideEmpty" : false,
+					"Name" : false,
+					"Target" : false,
+					"TargetDistance" : false
+				}
+			},
+			"Tribe" : 
+			{
+				"Containers" : 
+				{
+					"Distance" : true,
+					"Items" : true,
+					"Name" : true
+				},
+				"Turrets" : 
+				{
+					"Bullets" : false,
+					"Distance" : false,
+					"HideEmpty" : false,
+					"Name" : false,
+					"Target" : false,
+					"TargetDistance" : false
+				}
+			}
+		}
+	}
+}
